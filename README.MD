@@ -10,10 +10,12 @@ This project is used for educational purposes only and is not meant to be used f
 
 ### Carving from host computer (Roaming directory)
 Without validation: `python discord_token_stealer.py`\
+
 With validation: `python discord_token_stealer.py --validate`
 
 ### Stealing from given directory
 Without validation: `python discord_token_stealer.py --directory <dir-path>\`
+
 With validation: `python discord_token_stealer.py --directory <dir-path> --validate`
 
 ## Use Cases
